@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanishq-9
 - 👀 I’m interested in React
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me purohitkanishq9@gmail.com
 
 <!---
