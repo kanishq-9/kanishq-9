@@ -2,7 +2,7 @@
 🔭 I’m currently working on<br>Full-stack web applications using the MERN stack and building projects that combine scalable backend systems with modern frontend technologies.<br><br>🚀 I’m planning to build<br>My own startup focused on creating impactful tech solutions and scalable software products.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to full-stack development, AI/ML applications, and innovative developer tools.<br><br>🤝 I’m looking for help with<br>Full-stack development, System design and, scalable architecture.<br><br>🌱 I’m currently learning<br>Rust, distributed systems, system design, and performance optimization for large-scale applications.<br><br>💬 Ask me about<br>JavaScript, React, Node.js, REST APIs, MongoDB, SQL, full-stack development, and software engineering concepts.<br><br>⚡ Fun fact<br>I enjoy solving complex tech problems, lifting heavy at the gym, and constantly experimenting with new technologies while working toward building my own tech startup.<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajpurohit.kanishq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishq-purohit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Kanishq09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishq.r.purohit9@gmail.com) 
 
 # 💻 Tech Stack:
